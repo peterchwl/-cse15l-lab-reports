@@ -8,7 +8,7 @@ ___
 To install VS Code, first go on their website [https://code.visualstudio.com/](https://code.visualstudio.com/). Then, follow the instructions needed to download on your computer. Make sure to pick the correct operating system for your installment.
 
 ![Image](imgs/vscode.png)
-*(Step 1)*
+*(VS Code home page)*
 
 
 ## **Step 2: Remotely Connecting**
@@ -17,7 +17,7 @@ To remotely connect, first open the terminal. Then, copy this command "ssh cs15l
 
 ![Image](imgs/login.png)
 
-*(Step 2)*
+*(remotely connecting to server)*
 
 ## **Step 3: Trying Some Commands**
 ___
@@ -35,14 +35,14 @@ Lastly, to test that your connection is working, you can try some commands. Some
 
 ![Image](imgs/lsexample.png)
 
-*(Step 3)*
+*(example using ls -a)*
 
 &nbsp;
 > (TIP!) Make sure to log out of the remote server using Ctrl-D or by running the command "exit".
 
 ![Image](imgs/exit.png)	
 
-*(Tip)*
+*(exiting server)*
 
 &nbsp;
 

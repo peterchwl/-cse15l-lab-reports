@@ -16,6 +16,7 @@ ___
 To remotely connect, first open the terminal. Then, copy this command "ssh cs15lwi23avu@ieng6.ucsd.edu" to ssh into the CSE Basement server. Lastly, the terminal will prompt you for your password. Enter your password and you will have access to the server.
 
 ![Image](imgs/login.png)
+
 *(Step 2)*
 
 ## **Step 3: Trying Some Commands**
@@ -33,12 +34,14 @@ Lastly, to test that your connection is working, you can try some commands. Some
 ... and more!
 
 ![Image](imgs/lsexample.png)
+
 *(Step 3)*
 
 &nbsp;
 > (TIP!) Make sure to log out of the remote server using Ctrl-D or by running the command "exit".
 
 ![Image](imgs/exit.png)	
+
 *(Tip)*
 
 &nbsp;

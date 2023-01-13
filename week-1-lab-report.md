@@ -15,7 +15,7 @@ To install VS Code, first go on their website https://code.visualstudio.com/. Th
 ___
 To remotely connect, first open the terminal. Then, copy this command "ssh cs15lwi23avu@ieng6.ucsd.edu" to ssh into the CSE Basement server. Lastly, the terminal will prompt you for your password. Enter your password and you will have access to the server.
 
-![Image](img/login.png)
+![Image](imgs/login.png)
 *(Step 2)*
 
 ## **Step 3: Trying Some Commands**

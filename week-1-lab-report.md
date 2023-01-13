@@ -5,7 +5,7 @@ In this lab report, I will be walking through the steps to set up the CSE 15L la
 
 ## **Step 1: Installing VS Code**
 ___
-To install VS Code, first go on their website https://code.visualstudio.com/. Then, follow the instructions needed to download on your computer. Make sure to pick the correct operating system for your installment.
+To install VS Code, first go on their website [https://code.visualstudio.com/](https://code.visualstudio.com/). Then, follow the instructions needed to download on your computer. Make sure to pick the correct operating system for your installment.
 
 ![Image](imgs/vscode.png)
 *(Step 1)*

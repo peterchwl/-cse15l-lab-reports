@@ -1,3 +1,3 @@
-Peter Lee
-Computer Science
-Sixth College, UCSD
+**Peter Lee**
+> Computer Science
+> Sixth College, UCSD

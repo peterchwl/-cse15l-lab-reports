@@ -27,7 +27,7 @@ Lastly, to test that your connection is working, you can try some commands. Some
 * **cd:** takes you into a directory
 * **ls -lat:** lists all of the files in a directory and the information of each file
 * **ls -a:** lists all of the files in a directory, including hidden files
-* **ls <directory>:** lists all of the files in a specified directory
+* **ls [directory]:** lists all of the files in a specified directory
 * **cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/:** copies the hello.txt file to the home directory
 * **cat /home/linux/ieng6/cs15lwi23/public/hello.txt:** prints the contents of the hello.txt file
 

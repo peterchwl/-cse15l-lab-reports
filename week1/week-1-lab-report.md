@@ -23,13 +23,13 @@ To remotely connect, first open the terminal. Then, copy this command "ssh cs15l
 ___
 Lastly, to test that your connection is working, you can try some commands. Some commands include:
 
-* cd ~
-* cd
-* ls -lat
-* ls -a
-* ls <directory>
-* cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/
-* cat /home/linux/ieng6/cs15lwi23/public/hello.txt
+* **cd ~:** takes you to the home directory
+* **cd:** takes you into a directory
+* **ls -lat:** lists all of the files in a directory and the information of each file
+* **ls -a:** lists all of the files in a directory, including hidden files
+* **ls [directory]:** lists all of the files in a specified directory
+* **cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/:** copies the hello.txt file to the home directory
+* **cat /home/linux/ieng6/cs15lwi23/public/hello.txt:** prints the contents of the hello.txt file
 
 ... and more!
 

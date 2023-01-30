@@ -1,4 +1,4 @@
-# Week 2 Lab Report
+# Week 3 Lab Report
 In this week's lab report, students are required to analyze servers and bugs.
 
 &nbsp;

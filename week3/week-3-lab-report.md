@@ -15,7 +15,7 @@ Command:
 grep -i "all" ch7.txt
 ```
 Output:
-```bash
+```
 In this chapter, I take up dilemmas that today’s parents face in rearing young children. Throughout this book, we have touched on myriad forces that make contemporary parenting highly challenging. These include one-sided, contradictory messages in the parenting-advice literature; career pressures that impinge on parent involvement in children’s lives; abysmally weak American child-care services to assist employed parents in their child-rearing roles; cultural violence and excessive materialism permeating children’s worlds; schools with less than optimal conditions for children’s learning; and impediments to granting children with deﬁcits and disabilities social experiences that maximize their development. 
 When we speak of self-esteem, we refer to the judgments we make of our own worth and the feelings associated with those judgments. People with high self-esteem, although recognizing their limitations, are fundamentally satisﬁed with their characteristics and competencies. Their self-conﬁdence, self-respect, and realistic appraisal of their current skills fortify them in the face of failure, motivating them to try hard to surmount challenges. 
 By the school years, individual differences in self-esteem are clearly evident and strongly related to children’s everyday behaviors. That is, most school-age children are quite good at judging their own strengths and limitations. For example, children who agree with such statements as, “I’m good at schoolwork,” tend to achieve well academically; children who concur that “most kids like me” get along well with their classmates; and children who say that they’re “usually the one chosen for games” are more advanced in physical skills.1 Many parents sense this strong link between children’s self-esteem and accomplishment. Consequently, they may try to build their child’s self-esteem with praise and reassuring comments.
@@ -89,7 +89,7 @@ Command:
 grep -i "war" HistoryFrance.txt
 ```
 Output:
-```bash
+```
 position was threatened by Ligurian pirates at sea and warlike tribes
 in present-day Belgium, and warned that the Ger­man­ic tribes across
 The Romanization of Gaul sent the most energetic warriors to
@@ -138,7 +138,7 @@ Command:
 grep -r "Lucayans" written_2/
 ```
 Output:
-```bash
+```
 written_2/travel_guides/berlitz2/Bahamas-History.txt:Centuries before the arrival of Columbus, a peaceful Amerindian people who called themselves the Luccucairi had settled in the Bahamas. Originally from South America, they had traveled up through the Caribbean islands, surviving by cultivating modest crops and from what they caught from sea and shore. Nothing in the experience of these gentle people could have prepared them for the arrival of the Pinta, the Niña, and the Santa Maria at San Salvador on 12 October 1492. Columbus believed that he had reached the East Indies and mistakenly called these people Indians. We know them today as the Lucayans. Columbus claimed the island and others in the Bahamas for his royal Spanish patrons, but not finding the gold and other riches he was seeking, he stayed for only two weeks before sailing towards Cuba.
 written_2/travel_guides/berlitz2/Bahamas-History.txt:The Spaniards never bothered to settle in the Bahamas, but the number of shipwrecks attest that their galleons frequently passed through the archipelago en route to and from the Caribbean, Florida, Bermuda, and their home ports. On Eleuthera the explorers dug a fresh-water well — at a spot now known as “Spanish Wells” — which was used to replenish the supplies of water on their ships before they began the long journey back to Europe with their cargoes of South American gold. As for the Lucayans, within 25 years all of them, perhaps some 30,000 people, were removed from the Bahamas to work — and die — in Spanish gold mines and on farms and pearl fisheries on Hispaniola (Haiti), Cuba, and elsewhere in the Caribbean.
 ```
@@ -152,7 +152,7 @@ Command:
 grep -r "Port Canaveral on Florida" written_2/
 ```
 Output:
-```bash
+```
 written_2/travel_guides/berlitz2/Bahamas-WhereToGo.txt:Many cruises to the Bahamas depart from Port Canaveral on Florida’s east coast, about halfway up the peninsula. This is an ideal jumping off point for a number of attractions of worldwide fame — the pleasures of Orlando and Walt Disney World and other theme parks are only 50 minutes away. Even closer, just 20 minutes away from the cruise port, is Cape Canaveral and the Kennedy Space Center.
 ```
 In bash, every instance of "Port Canaveral on Florida" within the written_2 directory is highlighted. The -r command is useful because it recursively searches through every file in a given directory for a specified word. 
@@ -172,7 +172,7 @@ Command:
 grep -n "contributed" ch2.txt
 ```
 Output:
-```bash
+```
 237:What factors contributed to Hannah’s turnabout? Shared understanding (intersubjectivity) between adult and child, scaolding of new competencies, narrative conversations prompting a redeﬁnition of self, and joint engagement in culturally meaningful activities—the diverse experiences we have considered that create the zone of proximal development—appear to be at the heart of her success story. Indeed, Hannah’s tale suggests that young children denied these supports can still proﬁt from them later, if such supports are available and they have the fortitude to capitalize on them. But not all young people are as fortunate as Hannah. Some remain profoundly impaired by inadequate adult investment in their childhoods. And even those who fare reasonably well may carry with them inner wounds—a sense of emptiness and regret at having missed self-deﬁning, conﬁdence-inducing early experiences that cannot, in the ﬁnal analysis, be recaptured.
 ```
 
@@ -185,7 +185,7 @@ Command:
 grep -n "attributed" ch2.txt
 ```
 Output:
-```bash
+```
 233:Hannah completed her degree the following year. In a letter she wrote to Eva and Charlie shortly after her graduation, she attributed her turnabout in motivation and self-conﬁdence to the connection, forged through dialogue, with her aunt and uncle:
 ```
 In bash, every line with the phrase "attributed" is given within the file ch2.txt, with the specified word highlighted. The -n command is useful because it only gives you the line with the word/phrase you are searching for, making file parsing more easier for specific words.
@@ -205,7 +205,7 @@ Command:
 grep -w "the" China-WhatToDo.txt
 ```
 Output:
-```bash
+```
 Most visitors to China come to see the nation’s many excellent historic and cultural sites, including the imperial treasures. But there is much else of interest in this vast land to make the journey truly enjoyable. You will of course want to bring home at least a few souvenirs, and you will have opportunities to attend presentations of an incredible range of performing arts. It will not be difficult to fill your moments of leisure with memorable activities that will make your trip last well after you return home.
 After watching coachloads of foreign tourists clamoring to buy souvenirs at every stop, from the Forbidden City to the oases of Xinjiang, the Chinese authorities have opened shops wherever visitors go. The Friendship Stores, found in all significant tourist locations, make for easy shopping. They are essentially for foreigners only, and salespeople speak several languages and usually have all the patience in the world for repetitive queries. Foreign money may be changed on the premises, and some credit cards are accepted.
 But more adventurous travelers might stumble across the same items in a neighborhood store. There the scene is less relaxed and the language problem might daunt you, but at least you’ll be able to catch a glimpse of Chinese consumer society.
@@ -254,7 +254,7 @@ Command:
 grep -w "bear" Canada-History.txt
 ```
 Output:
-```bash
+```
 In the Arctic region, the stabilization of the sea level and a dramatic cooling of the climate around 1500 b.c. caused hunters to switch from land mammals to fish, seal, walrus, whale, and ice-dwelling polar bear. At the same time, these ancestors of the Inuit moved out of their skin tents into warmer igloos of hardened snow blocks. They glided over the ice on skates of ivory or antler horn. From the Yukon, further migrations took them north to the High Arctic, south around Hudson Bay to Manitoba, east to Greenland, and down the Labrador coast to Newfoundland.
 For these great hunters of the Rocky Mountain foothills and prairies, wild game included grizzly and black bear, antelope, deer, elk, wild sheep, and goats, but the only “real meat” was buffalo. Before the early 1700s, when horses appeared on the scene, guile was more important than speed, and hunters stalked the buffalo herd disguised with the skins of wolf and buffalo calves. Horseback hunting brought new skills and prestige to an élite that had been given no other duties. The Blackfoot went to war with Shoshoni and Crow Indians, to the south, for their horses, and were in turn attacked by the Cree from the north for their territory’s great buffalo herds. Buffalo was everything to these tribes — food, clothes, and tents; and twelve to fourteen buffalo skins were needed to construct a single teepee. So the cultural and ecological shock was all the greater when the herds were exterminated in the 1870s. Métis and Cree Indians were devastatingly efficient with their repeater rifles, and the transcontinental railway builders made a deliberate policy of clearing the tracks of migrating buffalo. By 1877, under the Canadian government’s Blackfoot Treaty, the native peoples gave up their hunting grounds to raise cattle on reserves instead.
 Like their Algonquin cousins back in the woodlands of Québec and Ontario, they showed a great talent for hunting — moose, beaver, bear, caribou, and seal — with bow and arrow, traps, and harpoon. Before the hunt, the Micmac staged a huge “eat-all” feast to clear out all available provisions, confident the larder would be amply replenished. When they returned, the hunting dogs ended up as the prize delicacy for guests at their ceremonial feasts. The hunters lured the moose with a birchbark “horn” imitating the female call, and if that didn’t work, they poured water from a birchbark receptacle into a pond to reproduce the sound of the female urinating. Once the men had killed the beast, the women had to carry it home to cook. The choice morsel was the head, roasted.

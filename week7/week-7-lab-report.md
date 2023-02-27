@@ -10,7 +10,7 @@ ___Keys pressed:___
 - <Command + V>
 - \<enter>
 
-The '```ssh cs15lwi23avu@ieng6.ucsd.edu```' command was already saved in a notepad. I copied this command in notepad using ```Command + C```, but because this was not within the scope of the terminal, it is not listed under keys pressed. To log into ieng6, I simply pasted this command into terminal using ```Command + V```. I pressed ```enter``` to run the command. No password was required because I already added the ieng SSH key to my Github account. I am now logged into ieng6.
+The ```ssh cs15lwi23avu@ieng6.ucsd.edu``` command was already saved in a notepad. I copied this command in notepad using ```Command + C```, but because this was not within the scope of the terminal, it is not listed under keys pressed. To log into ieng6, I simply pasted this command into terminal using ```Command + V```. I pressed ```enter``` to run the command. No password was required because I already added the ieng SSH key to my Github account. I am now logged into ieng6.
 
 ![Image](imgs/task4.png)
 
